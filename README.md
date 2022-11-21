@@ -1,2 +1,2 @@
 # Movement-classifier
-Small Project
+Comparing various RNNs to classify gyroscopic and accellerometer data with UCI HAR dataset
